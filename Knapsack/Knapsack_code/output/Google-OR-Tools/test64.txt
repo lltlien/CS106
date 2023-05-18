@@ -1,0 +1,8 @@
+File name: data/08SpannerWeaklyCorrelated/n00050/R01000/s082.kp
+Execution time: 14.810273170471191 sec
+Capacity = 3940 
+Total weight = 3929 
+Total value = 14714 
+Number of items: 35 
+Packed items: [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 14, 15, 16, 17, 18, 19, 22, 23, 25, 26, 27, 28, 29, 31, 32, 34, 35, 37, 39, 42, 45, 46, 48, 49] 
+Packed weights: 35

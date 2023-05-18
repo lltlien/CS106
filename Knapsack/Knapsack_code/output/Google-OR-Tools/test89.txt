@@ -1,0 +1,8 @@
+File name: data/11ProfitCeiling/n00100/R10000/s075.kp
+Execution time: 5.218336582183838 sec
+Capacity = 257206 
+Total weight = 257205 
+Total value = 257193 
+Number of items: 38 
+Packed items: [0, 2, 3, 4, 5, 9, 11, 16, 21, 25, 26, 30, 32, 37, 39, 48, 49, 50, 51, 55, 60, 62, 64, 66, 67, 70, 73, 76, 79, 80, 81, 85, 87, 89, 91, 92, 95, 98] 
+Packed weights: 38

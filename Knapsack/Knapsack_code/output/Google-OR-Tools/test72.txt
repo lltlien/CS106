@@ -1,0 +1,8 @@
+File name: data/09SpannerStronglyCorrelated/n00050/R10000/s090.kp
+Execution time: 22.571053504943848 sec
+Capacity = 21383 
+Total weight = 21364 
+Total value = 208364 
+Number of items: 29 
+Packed items: [0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 11, 12, 14, 15, 17, 22, 24, 27, 28, 31, 32, 33, 35, 38, 39, 41, 42, 43, 44] 
+Packed weights: 29

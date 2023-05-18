@@ -1,0 +1,13 @@
+File name: data/05SubsetSum/n00050/R01000/s051.kp
+Execution time: 2.560269832611084 sec
+Capacity = 14361 
+Total weight = 14361 
+Total value = 14361 
+Number of items: 26 
+Execution time: 2.560269832611084 sec
+Capacity = 14361 
+Total weight = 14361 
+Total value = 14361 
+Number of items: 26 
+Packed items: [2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 19, 20, 21, 22, 23, 24, 25, 39, 44, 47] 
+Packed weights: 26

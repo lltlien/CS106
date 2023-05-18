@@ -1,0 +1,5 @@
+\begin{table}
+  \begin{center}
+\def~{\hphantom{0}}
+  \begin{tabular}{cccccc}
+      \textbf{No.}  & \textbf{Test cases}  &  \textbf{N}   & \textbf{Capacities } &  \textbf{Total weights} &  \textbf{Total values}   \\[4pt]

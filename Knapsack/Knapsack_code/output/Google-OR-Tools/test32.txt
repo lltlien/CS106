@@ -1,0 +1,13 @@
+File name: data/04AlmostStronglyCorrelated/n00050/R01000/s084.kp
+Execution time: 2.3695971965789795 sec
+Capacity = 11705 
+Total weight = 11705 
+Total value = 15212 
+Number of items: 35 
+Execution time: 2.3695971965789795 sec
+Capacity = 11705 
+Total weight = 11705 
+Total value = 15212 
+Number of items: 35 
+Packed items: [2, 3, 5, 6, 7, 8, 10, 11, 13, 14, 17, 18, 20, 22, 23, 25, 26, 27, 28, 29, 30, 31, 33, 34, 35, 38, 39, 41, 42, 44, 45, 46, 47, 48, 49] 
+Packed weights: 35
